@@ -1,9 +1,6 @@
-
+![welcome small](https://user-images.githubusercontent.com/112393881/224752218-c1bd1d05-4a13-4015-a521-9105b999ce38.gif)![welcome small](https://user-images.githubusercontent.com/112393881/224752218-c1bd1d05-4a13-4015-a521-9105b999ce38.gif)![welcome small](https://user-images.githubusercontent.com/112393881/224752218-c1bd1d05-4a13-4015-a521-9105b999ce38.gif)![welcome small](https://user-images.githubusercontent.com/112393881/224752218-c1bd1d05-4a13-4015-a521-9105b999ce38.gif)![welcome small](https://user-images.githubusercontent.com/112393881/224752218-c1bd1d05-4a13-4015-a521-9105b999ce38.gif)![welcome small](https://user-images.githubusercontent.com/112393881/224752218-c1bd1d05-4a13-4015-a521-9105b999ce38.gif)![welcome small](https://user-images.githubusercontent.com/112393881/224752218-c1bd1d05-4a13-4015-a521-9105b999ce38.gif)
 ----------------
-![welcome-2](https://user-images.githubusercontent.com/112393881/224696236-c3545aa9-0a13-4ece-a1dc-56200027493a.gif)
----------------
-### <p align="center"> Hi! 👋 </p>
-### <p align="center"> My name is Martin. :zap: </p>
+### <p align="center"> Hi! 👋 My name is Martin. :zap: </p>
 ---------------
 
 - 🔭 I’m currently a .Net Developer Student :technologist:
