@@ -5,7 +5,8 @@
 ![welcome small](https://user-images.githubusercontent.com/112393881/224752218-c1bd1d05-4a13-4015-a521-9105b999ce38.gif)
 ![welcome small](https://user-images.githubusercontent.com/112393881/224752218-c1bd1d05-4a13-4015-a521-9105b999ce38.gif)
 ----------------
-- ### Hi! 👋 My name is Martin. :zap:
+- 👋 ### Hi!
+- :zap: ### My name is Martin.
 ---------------
 
 - 🔭 I’m currently a .Net Developer Student :technologist:
