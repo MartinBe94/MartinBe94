@@ -15,7 +15,8 @@
 
 ---
 ### Knowledge / Skills
-
+<img width="52" alt="net" src="https://user-images.githubusercontent.com/112393881/224684661-f220bfe9-6808-41de-ad7c-f7471cf979db.png"> ![csharp](https://user-images.githubusercontent.com/112393881/224684743-9e3a14a2-9a65-4be9-a82f-d69ee4b423bc.png) 
+![java](https://user-images.githubusercontent.com/112393881/224684817-97ceedf6-c9f5-4fa3-a839-39ae9da88f2b.jpg) ![sql](https://user-images.githubusercontent.com/112393881/224684936-920480f4-04f2-48da-9499-749dadf12622.jpg)
 ---
 ### Database / Tools
 
