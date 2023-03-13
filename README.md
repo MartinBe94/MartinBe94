@@ -1,7 +1,7 @@
-### Welcome to My Profile 👋
+# Welcome to My Profile 👋
 # ![pepe-greetings-greetings-pepe](https://user-images.githubusercontent.com/112393881/224658071-a2254ef2-8dd2-4ad7-b5ef-cb09d2fac57b.gif) ![hottie-penguin](https://user-images.githubusercontent.com/112393881/224658620-0e02984b-bfc9-4f0d-8f37-462da789ad1a.gif)
 
-# Hi!! 👋 :zap: My name is Martin.
+### Hi!! 👋 :zap: My name is Martin.
 
 - 🔭 I’m currently working on a .Net Developer Student :technologist:
 - 🌱 I’m currently learning React , Node.Js , Javascript
@@ -9,7 +9,7 @@
 - 📫 How to reach me: Martin.be@iths.se & Martin_Be_94@msn.com 
 ---
 
-## GitHub portfolio :card_file_box:
+### GitHub portfolio :card_file_box:
 
 | Repo                           | Description                                                   |
 | ------------------------------ | ------------------------------------------------------------- |
