@@ -15,25 +15,35 @@
 
 ### GitHub portfolio :card_file_box:
 
+## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
+![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinBe94&theme=nightowl&show_icons=true)
+
+### Most Used Languages&nbsp;&nbsp;
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Martin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBe94&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 ---
 ### Knowledge / Skills
- <img width="52" alt="net" src="https://user-images.githubusercontent.com/112393881/224684661-f220bfe9-6808-41de-ad7c-f7471cf979db.png"> (.NET)
- ![csharp](https://user-images.githubusercontent.com/112393881/224684743-9e3a14a2-9a65-4be9-a82f-d69ee4b423bc.png) (C#)
- ![java](https://user-images.githubusercontent.com/112393881/224684817-97ceedf6-c9f5-4fa3-a839-39ae9da88f2b.jpg) (Java)
- ![sql](https://user-images.githubusercontent.com/112393881/224684936-920480f4-04f2-48da-9499-749dadf12622.jpg) (SQL)
- <img width="52" alt="nosql" src="https://user-images.githubusercontent.com/112393881/224689655-bcecfd61-faad-4382-946c-8be057d622f7.png"> (NoSQL)
+
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![C#](https://img.shields.io/badge/-CSHARP-333333?style=flat&logo=CSHARP&logoColor=1572B6)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) 
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.NET)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL&logoColor=1572B6)
+![NOSQL](https://img.shields.io/badge/-NOSQL-333333?style=flat&logo=NOSQL&logoColor=1572B6)
 ---
 ### Database / Tools
- <img width="30" alt="Visual Studio" src="https://user-images.githubusercontent.com/112393881/224689441-824cb7bd-1b77-4443-a2e9-93bf74a34079.png"> (Visual Studio)
- <img width="30" alt="Visual Studio Code" src="https://user-images.githubusercontent.com/112393881/224689389-4c304227-0cef-4c9c-9c92-4a0bf390c036.png"> (Visual Studio Code)
- <img width="30" alt="azure" src="https://user-images.githubusercontent.com/112393881/224688794-64ab9d9a-c535-4199-a7b5-54ba4dc6a191.png"> (Azure)
- <img width="30" alt="bootstrap" src="https://user-images.githubusercontent.com/112393881/224688896-2b337e13-0bf8-4d43-9cca-d478b77d1c83.png"> (Bootstrap)
- <img width="30" alt="github" src="https://user-images.githubusercontent.com/112393881/224689030-0d31f44e-a7d7-452c-a7ff-5e3abd467b78.png"> (Github)
- <img width="30" alt="mongodb" src="https://user-images.githubusercontent.com/112393881/224689118-6c3b5f10-fbe8-48f7-9199-f4150297d828.png"> (MongoDB)
- <img width="30" alt="netbeans" src="https://user-images.githubusercontent.com/112393881/224689572-fe12e9a7-7014-47c3-a7b0-7bc9e2266d0f.png"> (Netbeans)
- <img width="30" alt="figma" src="https://user-images.githubusercontent.com/112393881/224692427-36a4781e-0100-4023-ab8c-180ecef41c72.png"> (Figma)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-VS-05122A?style=flat&logo=visualstudio&logoColor=007ACC)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
+![Netbeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=netbeans)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 
 ---
