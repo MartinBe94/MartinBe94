@@ -1,8 +1,9 @@
-![welcome-2](https://user-images.githubusercontent.com/112393881/224696236-c3545aa9-0a13-4ece-a1dc-56200027493a.gif)
+
 ----------------
 ### <p align="center"> Hi!! My name is Martin. 👋 :zap: </p>
 ---------------
-
+![welcome-2](https://user-images.githubusercontent.com/112393881/224696236-c3545aa9-0a13-4ece-a1dc-56200027493a.gif)
+---------------
 
 - 🔭 I’m currently a .Net Developer Student :technologist:
 - 🌱 I’m currently learning React , Node.Js , Javascript , UX/UI 
