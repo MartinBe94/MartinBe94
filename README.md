@@ -1,6 +1,7 @@
 
 ----------------
-### <p align="center"> Hi!! My name is Martin. 👋 :zap: </p>
+### <p align="center"> Hi! 👋 </p>
+### <p align="center"> My name is Martin. :zap: </p>
 ---------------
 ![welcome-2](https://user-images.githubusercontent.com/112393881/224696236-c3545aa9-0a13-4ece-a1dc-56200027493a.gif)
 ---------------
