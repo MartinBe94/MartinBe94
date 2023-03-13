@@ -3,8 +3,8 @@
 
 ### Hi!! 👋 :zap: My name is Martin.
 
-- 🔭 I’m currently working on a .Net Developer Student :technologist:
-- 🌱 I’m currently learning React , Node.Js , Javascript
+- 🔭 I’m currently a .Net Developer Student :technologist:
+- 🌱 I’m currently learning React , Node.Js , Javascript , UX/UI 
 - 🤔 I’m currently looking for internship as .Net / Backend / Frontend / Fullstack Developer
 - 📫 How to reach me: Martin.be@iths.se & Martin_Be_94@msn.com 
 ---
