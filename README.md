@@ -15,10 +15,22 @@
 
 ---
 ### Knowledge / Skills
-<img width="52" alt="net" src="https://user-images.githubusercontent.com/112393881/224684661-f220bfe9-6808-41de-ad7c-f7471cf979db.png"> ![csharp](https://user-images.githubusercontent.com/112393881/224684743-9e3a14a2-9a65-4be9-a82f-d69ee4b423bc.png) 
-![java](https://user-images.githubusercontent.com/112393881/224684817-97ceedf6-c9f5-4fa3-a839-39ae9da88f2b.jpg) ![sql](https://user-images.githubusercontent.com/112393881/224684936-920480f4-04f2-48da-9499-749dadf12622.jpg)
+- <img width="52" alt="net" src="https://user-images.githubusercontent.com/112393881/224684661-f220bfe9-6808-41de-ad7c-f7471cf979db.png"> (.NET)
+- ![csharp](https://user-images.githubusercontent.com/112393881/224684743-9e3a14a2-9a65-4be9-a82f-d69ee4b423bc.png) (C#)
+- ![java](https://user-images.githubusercontent.com/112393881/224684817-97ceedf6-c9f5-4fa3-a839-39ae9da88f2b.jpg) (Java)
+- ![sql](https://user-images.githubusercontent.com/112393881/224684936-920480f4-04f2-48da-9499-749dadf12622.jpg) (SQL)
+- <img width="52" alt="nosql" src="https://user-images.githubusercontent.com/112393881/224689655-bcecfd61-faad-4382-946c-8be057d622f7.png"> (NoSQL)
 ---
 ### Database / Tools
+- <img width="52" alt="Visual Studio" src="https://user-images.githubusercontent.com/112393881/224689441-824cb7bd-1b77-4443-a2e9-93bf74a34079.png"> (Visual Studio)
+- <img width="52" alt="Visual Studio Code" src="https://user-images.githubusercontent.com/112393881/224689389-4c304227-0cef-4c9c-9c92-4a0bf390c036.png"> (Visual Studio Code)
+- <img width="52" alt="azure" src="https://user-images.githubusercontent.com/112393881/224688794-64ab9d9a-c535-4199-a7b5-54ba4dc6a191.png"> (Azure)
+- <img width="52" alt="bootstrap" src="https://user-images.githubusercontent.com/112393881/224688896-2b337e13-0bf8-4d43-9cca-d478b77d1c83.png"> (Bootstrap)
+- <img width="52" alt="github" src="https://user-images.githubusercontent.com/112393881/224689030-0d31f44e-a7d7-452c-a7ff-5e3abd467b78.png"> (Github)
+- <img width="52" alt="mongodb" src="https://user-images.githubusercontent.com/112393881/224689118-6c3b5f10-fbe8-48f7-9199-f4150297d828.png"> (MongoDB)
+- <img width="52" alt="netbeans" src="https://user-images.githubusercontent.com/112393881/224689572-fe12e9a7-7014-47c3-a7b0-7bc9e2266d0f.png"> (Netbeans)
+- <img width="52" alt="figma" src="https://user-images.githubusercontent.com/112393881/224692427-36a4781e-0100-4023-ab8c-180ecef41c72.png"> (Figma)
+
 
 ---
 ### My Projects
