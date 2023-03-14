@@ -52,7 +52,7 @@ I'm always open up for new knowledges, feedbacks to improve myself more and get 
 ![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinBe94&theme=nightowl&show_icons=true)
 
 ### Most Used Languages&nbsp;&nbsp;
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Martin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBe94&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Martin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBe94&langs_count=8&count_public=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 ---
@@ -88,11 +88,13 @@ I'm always open up for new knowledges, feedbacks to improve myself more and get 
 | [Restuarant Booking System][RS]| Restaurant booking system project  (C#)                       |
 | [Kitchen Tools][KT]            | Kitchen tools project, Let user add & check if tools work(C#) |
 | [Company Database][CD]         | API project perform CRUD with databases(C# , API, SQL)        |
+| [Novice Yatzy Game][NG]        | Yatzy game usage of java language(Java)                       |
 ---
 [FS]: https://github.com/MartinBe94/FilmStream.git
 [RS]: https://github.com/MartinBe94/Restuarant-Booking-System.git
 [KT]: https://github.com/MartinBe94/Kitchen-Tools.git
 [CD]: https://github.com/MartinBe94/Company.git
+[NG]: https://github.com/MartinBe94/Basic-Java-Yatzy-Game-First-Project-.git
 
  📫 How to reach me: Martin.be@iths.se & Martin_Be_94@msn.com & https://www.linkedin.com/in/martin-be-1a1458205/
 
