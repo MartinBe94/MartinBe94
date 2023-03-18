@@ -73,7 +73,6 @@ I'm always open up for new knowledges, feedbacks to improve myself more and get 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
 ![Netbeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=netbeans)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
