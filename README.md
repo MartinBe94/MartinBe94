@@ -49,7 +49,8 @@ I'm always open up for new knowledges, feedbacks to improve myself more and get 
 ---
 
 ## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinBe94&theme=nightowl&show_icons=true)
+[![MartinBe94's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinBe94)](https://github.com/MartinBe94/github-readme-stats)
+![MartinBe94's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinBe94&theme=nightowl&show_icons=true)
 
 ### Most Used Languages&nbsp;&nbsp;
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Martin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBe94&langs_count=8&count_public=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
