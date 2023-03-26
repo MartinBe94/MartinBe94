@@ -21,7 +21,7 @@ All way from the past when I went to my friends house to play games on the commo
 From all application in the smartphone to robotics drones, home system controlled by smartphones with softwares and softwares in the computer.  
  
 The first computer I got had the OS windows 98.
-It was then for the first time started to play Starcarft Original which had and still is one of my favorite games.
+It was then for the first time started to play Starcraft Original which had and still is one of my favorite games.
 And next the playstation 1 which alot of games like Tekken 3, Crash bandicoot and more. 
  
 But anyway lets get to the point. 
