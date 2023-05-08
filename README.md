@@ -69,6 +69,8 @@ I'm always open up for new knowledges, feedbacks to improve myself more and get 
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-VS-05122A?style=flat&logo=visualstudio&logoColor=007ACC)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Netbeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=netbeans)
