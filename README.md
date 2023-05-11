@@ -10,7 +10,7 @@
 ---------------
 
 - 🔭 I’m currently a .Net Developer Student :technologist:
-- 🌱 I’m currently learning React , Node.Js , Javascript , UX/UI 
+- 🌱 I’m currently learning React , Node.Js , Javascript , UX/UI , Docker , Python
 - 🤔 I’m currently looking for internship as .Net / Backend / Frontend / Fullstack Developer
  ---
  <details>
