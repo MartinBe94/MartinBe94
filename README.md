@@ -59,7 +59,8 @@ I'm always open up for new knowledges, feedbacks to improve myself more and get 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript) 
+![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=nodejs) 
 ![C#](https://img.shields.io/badge/-CSHARP-333333?style=flat&logo=CSHARP&logoColor=1572B6)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) 
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.NET)
