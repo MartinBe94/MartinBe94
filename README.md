@@ -9,7 +9,7 @@
 
 ---------------
 
-- 🔭 I’m currently a .Net Developer Student :technologist:
+- 🔭 I’m currently a .Net Developer :technologist:
 - 🌱 I’m currently learning UX/UI , Docker , Python
 - 🤔 I’m currently looking for a fulltime or part-time job as .Net / Backend / Frontend / Fullstack Developer
  ---
